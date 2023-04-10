@@ -1,0 +1,8 @@
+This is chapter 1s
+
+First created mkdir
+Second created files
+Third open txt files
+Then add text to it and save 
+Then initialize git by git init
+Git status is used to check which files are in staging area
