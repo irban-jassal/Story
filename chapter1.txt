@@ -26,7 +26,11 @@ Git clone (copied link from. Git hub. Which you want to clone)
 Git branch (name of branch) to create new branch
 
 Git branch to check how many branches do you have 
+<<<<<<< HEAD
 
 Git checkout branch name to change  branches
 
 After making branch and making any changes you always use  git add . And git commit-m
+=======
+ppppppppppppp
+>>>>>>> practice
