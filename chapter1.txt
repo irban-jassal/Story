@@ -6,3 +6,27 @@ Third open txt files
 Then add text to it and save 
 Then initialize git by git init
 Git status is used to check which files are in staging area
+To add any file to staging are use git add "file name" or git add. To add everything in the current directory and it will be ready together committed
+To remove use git rm --cached -r .
+Git commit-m "any comments" it will commit file which you staged before
+To check what you committed and at what time use git log
+git diff chapter1.txt : used to check difference between file when we commit it and now
+Git checkout filename : to revert back to version when we commit
+To create  your remote  repository
+Create repository on git hub 
+Copy https link
+Type command git remote origin(or any name you want to put for your repository) add and paste url
+
+To push your local repository to remote  the one you just created
+Git push -u origin(remote  repository) main(local repository)
+
+
+Git clone (copied link from. Git hub. Which you want to clone)
+
+Git branch (name of branch) to create new branch
+
+Git branch to check how many branches do you have 
+
+Git checkout branch name to change  branches
+
+After making branch and making any changes you always use  git add . And git commit-m
